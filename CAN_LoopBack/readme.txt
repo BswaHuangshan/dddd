@@ -1,14 +1,5 @@
 /**
-  @page CAN_LoopBack CAN LoopBack example
   
-  @verbatim
-  ******************** (C) COPYRIGHT 2013 STMicroelectronics *******************
-  * @file    CAN/CAN_LoopBack/readme.txt 
-  * @author  MCD Application Team
-  * @version V1.2.0
-  * @date    19-September-2013
-  * @brief   Description of the CAN LoopBack example.
-  ******************************************************************************
   *
   * Licensed under MCD-ST Liberty SW License Agreement V2, (the "License");
   * You may not use this file except in compliance with the License.
